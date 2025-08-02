@@ -27,7 +27,7 @@ It enables you to launch your own online earning platform where users get paid f
 -   ✅ Membership & plan manager
 -   ✅ PTC ads creator & scheduler
 -   ✅ Ad engagement metrics & reports
--   ✅ User control & KYC verification
+-   ✅ User control & KYC verification 
 -   ✅ Deposit & withdrawal management
 -   ✅ Email, SMS & notification manager
 -   ✅ Blog & SEO content management
