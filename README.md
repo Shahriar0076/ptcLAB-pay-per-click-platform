@@ -9,7 +9,7 @@ It enables you to launch your own online earning platform where users get paid f
 
 ### 🌟 User Features
 
--   ✅ Advanced user dashboard
+-   ✅ Advanced user dashboard 
 -   ✅ Anti-fraud PTC with real-time logs
 -   ✅ Subscription & membership system
 -   ✅ Referral & bonus system
